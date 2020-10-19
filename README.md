@@ -8,7 +8,8 @@ My name is Srikar Kusumanchi. I am a self-taught programmer and I have gained kn
 
 <p><a href="https://github.com/Srikark-17">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&hide=java,html&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=ffffff" />
-</a><a href="https://github.com/Srikark-17" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/srikar-kusumanchi-5bbab51b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p style="text-align:right;"><img src="https://komarev.com/ghpvc/?username=Srikark-17" alt="counter" /></p>
+</a> <p style="text-align:right;"><img src="https://komarev.com/ghpvc/?username=Srikark-17" alt="counter" /></p>
+<a href="https://github.com/Srikark-17" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/srikar-kusumanchi-5bbab51b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!--
