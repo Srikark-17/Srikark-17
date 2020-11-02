@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # About Me
-My name is Srikar Kusumanchi. I am a self-taught programmer and I have gained knowledge in 7 languages: Python, C, SQL, Shell, JavaScript, HTML, and CSS. I like to create programs that are innovative and can be used for later purposes. I have a deep passion for Artificial Intelligence, Machine Learning, and Robotics. I am currently looking for an internship/part-time job that can help reinforce my knowledge of programming and be a good asset towards my college application.
+A self-taught programmer and I have knowledge in several languages including the following: Python, C, SQL, Shell, JavaScript, HTML, and CSS. I am currently working at Def Hacks as a CS Outreach Intern. I like to create programs that are innovative, creating applications that solve real world problems in this era of digital transformation. I have a deep passion for Artificial Intelligence, Machine Learning, and Robotics. 
 
 # Skillset
 * **Languages:** Python, JavaScript, Matlab, React, HTML5, CSS3
