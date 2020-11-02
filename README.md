@@ -3,6 +3,17 @@
 # About Me
 My name is Srikar Kusumanchi. I am a self-taught programmer and I have gained knowledge in 7 languages: Python, C, SQL, Shell, JavaScript, HTML, and CSS. I like to create programs that are innovative and can be used for later purposes. I have a deep passion for Artificial Intelligence, Machine Learning, and Robotics. I am currently looking for an internship/part-time job that can help reinforce my knowledge of programming and be a good asset towards my college application.
 
+# Skillset
+* **Languages:** Python, JavaScript, Matlab, React, HTML5, CSS3
+* **Web/Mobile:** HTML5, CSS3, Flask, React.js, React Native, Node.js, Express.js, MongoDB, SQL, Firebase, GCP
+* **ML/AI/Data Science:** Scikit Learn, Tensorflow, Keras, Matplotlib, Numpy, Pandas
+
+## Notable Coding Awards
+* **2nd place** at OwlHacks 2020 and Hackrithmitic
+* **Track Winner** at Hack the Midlands and Kent Hacks
+* **Track Runner-up** at Sigma Hacks
+* **Best Use of Wolfram** at DubHacks
+
 ![Srikark-17's github stats](https://github-readme-stats.vercel.app/api?username=srikark-17&show_icons=true&hide_border=true)
 
 
