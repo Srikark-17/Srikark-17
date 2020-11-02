@@ -16,7 +16,7 @@ A self-taught programmer and I have knowledge in several languages including the
 
 ![Srikark-17's github stats](https://github-readme-stats.vercel.app/api?username=srikark-17&show_icons=true&hide_border=true)
 <a href="https://github.com/Srikark-17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&hide=java,html&title_color=fffff&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&hide=java,html&title_color=fffff&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
 
 <p style="text-align:right;"><img src="https://komarev.com/ghpvc/?username=Srikark-17" alt="counter" /></p>
