@@ -10,6 +10,7 @@ A self-taught programmer and I have knowledge in several languages including the
 
 ## Notable Coding Awards
 * **2nd place** at OwlHacks 2020 and Hackrithmitic
+* **3rd, 4th, and 5th** at MD Hacks
 * **Track Winner** at Hack the Midlands and Kent Hacks
 * **Track Runner-up** at Sigma Hacks
 * **Best Use of Wolfram** at DubHacks
