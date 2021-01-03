@@ -15,15 +15,28 @@ A self-taught programmer and I have knowledge in several languages including the
 * **Best Use of Google Cloud** at Hack the Midlands, Kent Hacks, and Tiger Hacks
 * **Best Use of Wolfram** at DubHacks
 
-![Srikark-17's github stats](https://github-readme-stats.vercel.app/api?username=srikark-17&show_icons=true&hide_border=true)
-<a href="https://github.com/Srikark-17">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&hide=java,html&title_color=fffff&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" />
-</a>
+<div>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<p style="text-align:right;"><img src="https://komarev.com/ghpvc/?username=Srikark-17" alt="counter" /></p>
-<a href="https://github.com/Srikark-17" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/srikar-kusumanchi-5bbab51b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+  <img align="left" alt="Srikar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Srikark-17&show_icons=true&hide_border=true&dummy=1234" />
 
+</details>
+</div>
+<div>
+<details>
+  <summary>:zap: GitHub History</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Srikark-17&dummy=123" alt="Srikark-17" /></p>
+
+</details>
+</div>
+<div>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Srikark-17&show_icons=true&locale=en&layout=compact&dummy=1234" alt="Srikark-17" /></p>
+</details>
+</div>
 <!--
 **Srikark-17/Srikark-17 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
