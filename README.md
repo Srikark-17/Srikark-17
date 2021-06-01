@@ -36,7 +36,7 @@ You can view more about me and my projects here: <a href="https://srikark-17.git
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&hide=java,html,css,less,jupyter_notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikark-17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
