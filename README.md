@@ -17,10 +17,10 @@ You can view more about me and my projects here: <a href="https://srikark-17.git
 
 📘 Latest Coding Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles](https://srikark.medium.com/)
+<li><a href="https://medium.com/sonny-sangha/what-is-firebase-and-why-should-you-use-it-88072552ecb5"><b>🔥 What is Firebase and Why should you use it?</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+  <li><a href="https://medium.com/sonny-sangha/5-react-hooks-that-you-will-use-in-your-everyday-life-as-a-developer-7c1e99780190"><b> 5 React Hooks that you will use in your everyday life as a developer</b></a></li>
+  <li><a href="https://medium.com/cleverprogrammer/discord-clone-using-reactjs-the-written-guide-for-beginners-77464c95827f"><b>Discord Clone using ReactJS — The Written Guide for Beginners</b></a></li>
+▶ [...more blog articles](https://srikark.medium.com)
 
 ---
 
@@ -31,39 +31,14 @@ You can view more about me and my projects here: <a href="https://srikark-17.git
 * **Best Use of Google Cloud** at Hack the Midlands, Kent Hacks, and Tiger Hacks
 * **Best Use of Wolfram** at DubHacks
 
-<div>
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="Srikar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Srikark-17&show_icons=true&hide_border=true&dummy=1234" />
+## &#x1f4c8; My GitHub Stats
 
-</details>
-</div>
-<div>
-<details>
-  <summary>:zap: GitHub History</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Srikark-17&dummy=123" alt="Srikark-17" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-</div>
-<div>
-<details>
-  <summary>:zap: Most Used Languages</summary>
+[![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikark-17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Srikark-17&show_icons=true&locale=en&layout=compact&dummy=1234" alt="Srikark-17" /></p>
-</details>
-</div>
-<!--
-**Srikark-17/Srikark-17 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on creating code that can be helpful to thousands, hopefully millions
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Srikark-17" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/srikar-kusumanchi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://srikark.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
