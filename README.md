@@ -15,6 +15,15 @@ You can view more about me and my projects here: <a href="https://srikark-17.git
 
 ---
 
+📘 Latest Coding Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://srikark.medium.com/)
+
+---
+
 ## Notable Coding Awards
 * **2nd place** at OwlHacks 2020 and Hackrithmitic
 * **3rd, 4th, and 5th** at MD Hacks
