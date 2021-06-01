@@ -36,9 +36,10 @@ You can view more about me and my projects here: <a href="https://srikark-17.git
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&hide=java,html,css,less,php&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikark-17&theme=radical)
 
-[![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikark-17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikark-17&count_private=true&show_icons=true)
+
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Srikark-17" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/srikar-kusumanchi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://srikark.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
