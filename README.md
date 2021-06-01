@@ -20,6 +20,7 @@ You can view more about me and my projects here: <a href="https://srikark-17.git
 <li><a href="https://medium.com/sonny-sangha/what-is-firebase-and-why-should-you-use-it-88072552ecb5"><b>🔥 What is Firebase and Why should you use it?</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
   <li><a href="https://medium.com/sonny-sangha/5-react-hooks-that-you-will-use-in-your-everyday-life-as-a-developer-7c1e99780190"><b> 5 React Hooks that you will use in your everyday life as a developer</b></a></li>
   <li><a href="https://medium.com/cleverprogrammer/discord-clone-using-reactjs-the-written-guide-for-beginners-77464c95827f"><b>Discord Clone using ReactJS — The Written Guide for Beginners</b></a></li>
+
 ▶ [...more blog articles](https://srikark.medium.com)
 
 ---
